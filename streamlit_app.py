@@ -3,9 +3,6 @@
 # Import streamlit, requests for API calls, and pandas and numpy for data manipulation
 
 import streamlit as st
-import requests
-import pandas as pd
-import numpy as np
 
 ############ SETTING UP THE PAGE LAYOUT AND TITLE ############
 
